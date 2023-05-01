@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/goit-boost/static/css/main.01f8ed04.css",
+    "main.js": "/goit-boost/static/js/main.7dcd0468.js",
+    "static/js/478.df8f38cc.chunk.js": "/goit-boost/static/js/478.df8f38cc.chunk.js",
+    "static/js/124.0a9c196e.chunk.js": "/goit-boost/static/js/124.0a9c196e.chunk.js",
+    "static/js/160.15a44e7d.chunk.js": "/goit-boost/static/js/160.15a44e7d.chunk.js",
+    "static/media/bg_image.png": "/goit-boost/static/media/bg_image.86562350dcaa714a1442.png",
+    "index.html": "/goit-boost/index.html",
+    "main.01f8ed04.css.map": "/goit-boost/static/css/main.01f8ed04.css.map",
+    "main.7dcd0468.js.map": "/goit-boost/static/js/main.7dcd0468.js.map",
+    "478.df8f38cc.chunk.js.map": "/goit-boost/static/js/478.df8f38cc.chunk.js.map",
+    "124.0a9c196e.chunk.js.map": "/goit-boost/static/js/124.0a9c196e.chunk.js.map",
+    "160.15a44e7d.chunk.js.map": "/goit-boost/static/js/160.15a44e7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01f8ed04.css",
+    "static/js/main.7dcd0468.js"
+  ]
+}
